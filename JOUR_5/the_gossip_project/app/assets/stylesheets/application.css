@@ -1,0 +1,42 @@
+body{
+    background-image: url('group_gossip.jpg');
+    background-size: cover;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 4em;
+    font-weight: bold;
+    font-style: normal;
+    color: white;
+    border-color: navy;
+    text-align: center;
+    text-decoration: tomato;
+    text-shadow: 1em;
+    padding-top: 2em;
+    text-shadow: 0 0 2px rgb(10, 10, 9), 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60;
+}
+
+p{
+    padding-left: 3em;
+    text-align: center;
+}
+
+.welcome{
+    padding-top: 3em;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+}
+
+div{
+    text-indent: 3em;
+    color: black;
+   
+}
+
+.deco{
+    text-shadow: 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60, 0 0 2px #d60;
+}
+

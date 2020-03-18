@@ -1,0 +1,21 @@
+<h1 class="welcome">Bienvenue sur le site gossip project</h1>
+
+<p>Voici la liste de potins par auteur</p>
+
+<table class="table table-bordered table-dark">
+    <thead>
+      <tr>
+        <th scope="col">Auteur</th>
+        <th scope="col">Potins</th>
+      </tr>
+    </thead>
+    <tbody>
+    <% @potin.each do |x| %>
+      <tr>
+        <td>
+            <%= link_to x.author, bienvenue_path(x.author) %></td>
+        <td><%= x.content %></td>
+      </tr>
+      <% end %>
+    </tbody>
+  </table>
